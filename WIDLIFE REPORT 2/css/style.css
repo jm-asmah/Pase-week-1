@@ -1,0 +1,33 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.ani {
+  background-color: steelblue;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  border: 5px solid mediumturquoise;
+}
+
+.footer {
+  background-color: steelblue;
+  color: white;
+  clear: both;
+  text-align: center;
+  border: 5px solid mediumturquoise;
+  margin: 20px;
+  padding: 20px;
+}
+.main-header {
+  background-image: url("img/30.jpg");
+  background-size: cover;
+  height: 700px;
+  padding: 100px;
+  align-self: center;
+  background-position: top;
+}
